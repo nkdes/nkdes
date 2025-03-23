@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Neural Network
 - 💞️ I’m looking for a job as Machine Learning or Data Science Engineer
 - 📫 How to reach me nkdesyanasari@gmail.com
-- ⚡ Fun fact: love to chew ice cubes even in winter
+- ⚡ Fun fact: love to play sudoku and willing to compete!
 
 <!---
 nkdes/nkdes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
